@@ -16,6 +16,8 @@ Feel free to reach out to me on Slack (what's that?) once the class starts with 
 
 You're about to take the first step of many on the road to becoming a full fledged software engineer!
 
+If you ever get cold, just stand in a corner for a bit. They're usually around 90 degrees.'
+
 ###### Ben
 
 * Twitter: [@akhenaten](http://www.twitter.com/akhenaten)
